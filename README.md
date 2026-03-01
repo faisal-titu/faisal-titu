@@ -1,23 +1,87 @@
-# 💫 About Me:
-🔨 I'm currently working on CNNs, DNNs, ANNs....<br>🤝 Looking to collaborate on: ML and Computer Vision projects.<br>🌱 Learning: Advanced CNNs and Deep Learning techniques.<br>💬 Ask me about: Machine Learning, CNNs,DNNs and Competitive Programming.<br>🎯 Looking for: Open-source contributions and AI opportunities.<br>🎉 Fun fact: Solved 600+ coding problems on various platforms!
+<h1 align="center">Hey, I'm Faisal 👋</h1>
 
+<p align="center">
+  <b>AI/ML Engineer</b> · Production AI/ML Systems · Computer Vision · MLOps<br/>
+  I build AI/ML systems that actually run in production — with real latency numbers, cost tracking, and postmortems.
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faisal.ahmed.31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faisal-ahmed-bb2028184) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faisal-titu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=faisal-titu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-titu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=faisal-titu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=faisal-titu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.faisal-ai.me">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/faisal-ahmed-bb2028184">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:faisaltitu.work@gmail.com">📧 Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=faisal-titu&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🔧 What I Build
+
+I focus on **end-to-end ML systems** — from model training to production serving, monitoring, and self-healing. Every project below has real infrastructure, real metrics, and real production incidents that I debugged.
+
+---
+
+## 🚀 Flagship Projects
+
+### [Personalized AI Image Search Engine](https://github.com/faisal-titu/ai-api-gateway-mvp) &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-blue?style=flat-square)](https://www.faisal-ai.me/project/ai-image-search-engine)
+
+> Multimodal semantic search across 25K+ personal images using CLIP + OpenSearch on AWS
+
+```
+→ p50 = 164 ms, p95 ~500 ms, cost ~$0.001/req (~$31/mo infra)
+→ ONNX Runtime: 2.6× faster inference (402 ms → 140 ms), 340 MB less RAM
+→ HNSW tuning: 3.3× faster vector search (76 ms → 23 ms)
+→ Stack: FastAPI + CLIP ViT-B/32 (ONNX) + OpenSearch k-NN + AWS EC2/S3 + Docker
+→ Ops: Prometheus + Grafana, bulk indexing at 1,085 docs/sec
+→ Postmortem: 3 production OOM incidents resolved on a 4 GB EC2 instance
+```
+
+### [MLOps Drift Detection System](https://github.com/faisal-titu/drift_detection_MLOPs) &nbsp; [![Live](https://img.shields.io/badge/Live_Dashboard-blue?style=flat-square)](https://www.faisal-ai.me/project/drift-detection-mlops)
+
+> Self-healing ML pipeline — detects data drift, auto-retrains, validates, and hot-reloads with zero downtime
+
+```
+→ R² = 0.775, RMSE = $54.3K, MAE = $36.5K (California Housing, 20K samples)
+→ p95 ~40 ms, p99 ~47 ms, 0 SLO breaches across 520+ requests
+→ KS-test + PSI drift detection → 3-gate eval (R² ≥ 0.70, RMSE ≤ $100K) → hot-reload
+→ Stack: FastAPI + scikit-learn + MLflow + Streamlit + SQLite + Docker
+→ Ops: /metrics endpoint (p50/p95/p99), /rollback, GitHub Actions CI (16 tests in ~6s)
+→ Postmortem: Streaming simulator caused 100% CPU lockup → fixed with retrain cap + cooldown
+```
+
+---
+
+## 📂 Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **LabelerSage** | Human-in-the-loop data annotation system for generating high-quality ML training data | Python, PyTorch, One-Shot Learning |
+| **Universal Image Segmentation** | Object-level segmentation pipeline using Segment Anything Model (SAM) | Python, PyTorch, SAM, LabelStudio |
+| **Diabetes Risk Prediction** | End-to-end ML pipeline with EDA, training, and Gradio web app (71% accuracy) | scikit-learn, FastAPI, Gradio, HF Spaces |
+| **3D Image Classification** | Custom CNN for 3D volumetric image classification (78% accuracy) | PyTorch, CNN, Deep Learning |
+
+---
+
+## 🛠️ Tech Stack
+
+**ML / AI** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX_Runtime-grey?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CLIP](https://img.shields.io/badge/OpenAI_CLIP-412991?style=flat-square)
+
+**MLOps** &nbsp; ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Serving** &nbsp; ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Data** &nbsp; ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faisal-titu&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-titu&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <i>I care about latency, cost, and things that break in production.</i><br/>
+  <a href="https://www.faisal-ai.me">www.faisal-ai.me</a>
+</p>
