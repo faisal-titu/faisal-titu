@@ -75,8 +75,10 @@ I focus on **end-to-end ML systems** — from model training to production servi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faisal-titu&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=faisal-titu&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165" /> -->
+  <!-- ![Stats](https://github-stats.vercel.app/api?username=faisal-titu&theme=dark) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisal-titu&theme=github-dark-blue&hide_border=true" height="165" />
+  <!-- ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=faisal-titu&theme=github-dark-blue&hide_border=true) -->
 </p>
 
 ---
